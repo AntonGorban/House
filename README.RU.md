@@ -8,7 +8,7 @@ Language: [EN](https://github.com/AntonGorban/House/blob/master/README.md) | [RU
 
 ## Layout
 
-Макет представлен `psd` файлом.
+Макет представлен `psd` файлом по [ссылке](https://drive.google.com/file/d/160OAVeju-f4q-xNpRDZAw19FPEM6PXWB/view?usp=sharing) и файлом `jpg`.
 
 ## Technology
 
