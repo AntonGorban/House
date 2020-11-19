@@ -8,7 +8,7 @@ A one-page site for a company that is engaged in the construction of residential
 
 ## Layout
 
-The layout is represented by a `psd` file.
+The layout is represented by the `psd` file at [link](https://drive.google.com/file/d/160OAVeju-f4q-xNpRDZAw19FPEM6PXWB/view?usp=sharing) and the `jpg` file.
 
 ## Technology
 
