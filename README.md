@@ -12,7 +12,7 @@ The layout is represented by the `psd` file at [link](https://drive.google.com/f
 
 ## Technology
 
-layout is done without using preprocessors, in `HTML` and` CSS`.
+layout is done without using preprocessors, in `HTML` and `CSS`.
 
 No adaptability / responsiveness.
 
